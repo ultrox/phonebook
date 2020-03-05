@@ -6,7 +6,8 @@ export const AppWrapper = styled.div`
 `
 
 export const MainWrapper = styled.div`
-  width: 80%;
+  width: 100%;
+  margin: 0 auto;
 
   @media (min-width: ${screens.sm}) {
     display: block;
@@ -25,8 +26,6 @@ export const MainWrapper = styled.div`
   @media (min-width: ${screens.xl}) {
     width: 110rem;
   }
-
-  margin: 0 auto;
 `
 
 export const MainTitle = styled.h1`

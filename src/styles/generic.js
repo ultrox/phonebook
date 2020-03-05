@@ -25,7 +25,5 @@ ${normalize}
 	*, *::before, *::after {
 		box-sizing: inherit;
 	}
-  body {
-    background: rgb(129, 166, 255);
-  }
+  body { }
 `

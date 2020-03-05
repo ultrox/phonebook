@@ -10,6 +10,6 @@ export const Sidebar = styled.div`
   }
 `
 export const Main = styled.div`
-  background-color: #000;
-  flex: 1;
+  width: 95%;
+  margin: 0 auto;
 `
