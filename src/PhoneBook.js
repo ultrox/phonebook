@@ -17,9 +17,9 @@ const PhoneBookWrapper = styled.div`
   margin: 0 auto;
 `
 const initState = [
-  {fname: 'Ki', lname: 'Sta', phone: '1111', address: 'Kolin Farki 5'},
-  {fname: 'Vi', lname: 'Kir', phone: '0000', address: 'Rudi Kakona 111'},
-  {fname: 'Ana', lname: 'Stalone', phone: '40000', address: 'Kiki'},
+  {fname: 'Caren', lname: 'B', phone: '1111', address: 'Andromeda 5'},
+  {fname: 'Bob', lname: 'A', phone: '0000', address: 'Zordan 111'},
+  {fname: 'Ana', lname: 'C', phone: '40000', address: 'Blu 3'},
 ]
 
 function PhoneBook() {
